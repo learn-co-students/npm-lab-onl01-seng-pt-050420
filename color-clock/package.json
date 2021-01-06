@@ -1,0 +1,11 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "\"changes the color of the clock by the second\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello, World!'"
+  },
+  "author": "Justin R. Zweifel",
+  "license": "ISC"
+}
